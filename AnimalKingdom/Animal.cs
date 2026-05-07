@@ -7,4 +7,14 @@
             return "Sound = ";
         }
     }
+
+    public interface IMammal
+    {
+        readonly int NumberOfNipples;
+    }
+
+    public interface ICanFly
+    {
+        readonly int NumberOfWings;
+    }
 }
