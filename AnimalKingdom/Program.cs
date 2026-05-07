@@ -27,6 +27,24 @@ namespace AnimalKingdom
                     case 3:
                         animals[i] = new Dog();
                         break;
+                    case 4:
+                        animals[i] = new Horse();
+                        break;
+                    case 5:
+                        animals[i] = new Snake();
+                        break;
+                    case 6:
+                        animals[i] = new Locust();
+                        break;
+                    case 7:
+                        animals[i] = new Blackbird();
+                        break;
+                    case 8:
+                        animals[i] = new Tenrec();
+                        break;
+                    case 9:
+                        animals[i] = new Koi();
+                        break;
                     default:
                         // This should NEVER happen
                         throw new ArgumentOutOfRangeException("Unknown animal!");
