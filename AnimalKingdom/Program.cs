@@ -13,7 +13,7 @@ namespace AnimalKingdom
 
             for (int i = 0; i < n; i++)
             {
-                switch (rnd.Next(4))
+                switch (rnd.Next(9))
                 {
                     case 0:
                         animals[i] = new Bat();

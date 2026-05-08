@@ -1,0 +1,15 @@
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.AssemblyInfoInputs.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.AssemblyInfo.cs
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.csproj.CoreCompileInputs.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.sourcelink.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\bin\Debug\net10.0\AnimalKingdom.exe
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\bin\Debug\net10.0\AnimalKingdom.deps.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\bin\Debug\net10.0\AnimalKingdom.runtimeconfig.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\bin\Debug\net10.0\AnimalKingdom.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\bin\Debug\net10.0\AnimalKingdom.pdb
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\refint\AnimalKingdom.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.pdb
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\AnimalKingdom.genruntimeconfig.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana09\AnimalKingdom\obj\Debug\net10.0\ref\AnimalKingdom.dll
